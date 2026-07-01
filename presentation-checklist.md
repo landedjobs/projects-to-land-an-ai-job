@@ -172,7 +172,7 @@ The project only pays off if you can narrate it like an engineer. Rehearse these
 
 <div align="center">
 
-### Don't just apply. Get **referred**, get **prepped**, get **Landed**.
+### Stop spraying. Get **matched**, get **prepped**, get **Landed**.
 
 [![Get Started](https://img.shields.io/badge/Get%20Started%20Free-→-6C2BD9?style=for-the-badge)](https://landed.jobs)
 
