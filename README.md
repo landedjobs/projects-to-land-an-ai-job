@@ -1,16 +1,18 @@
+<a name="top"></a>
+
 <div align="center">
 
-<img src="https://static.b100x.ai/email/landed-wordmark.png" alt="Landed" width="300" />
+<a href="https://landed.jobs"><img src="https://static.b100x.ai/email/landed-wordmark.png" alt="Landed" width="200"></a>
 
-# Projects to Land an AI Job 🧪
-
-**12 deep, buildable AI/LLM portfolio projects that actually get people hired in 2026** — each a full brief with milestones, evals, and a deploy path.
+<img src="https://static.b100x.ai/github-repos/images/projects-to-land-an-ai-job/banner.svg" alt="Projects to Land an AI Job" width="100%">
 
 [![Stars](https://img.shields.io/github/stars/landedjobs/projects-to-land-an-ai-job?style=social)](https://github.com/landedjobs/projects-to-land-an-ai-job)
 [![License: MIT](https://img.shields.io/badge/License-MIT-6C2BD9.svg)](LICENSE)
 [![Projects](https://img.shields.io/badge/projects-12-6C2BD9)](#the-12-projects-that-actually-land-ai-jobs-in-2026)
 [![Updated](https://img.shields.io/badge/updated-2026--07-00A86B)](#whats-new-2026-07)
 [![Visit Landed](https://img.shields.io/badge/Visit-Landed-6C2BD9?logo=rocket&logoColor=white)](https://landed.jobs)
+
+**12 deep, buildable AI/LLM portfolio projects that actually get people hired in 2026** — each a full brief with milestones, evals, and a deploy path.
 
 *Maintained by [Landed](https://landed.jobs) — daily AI-native job matches, agent help with every application, and mock-interview prep.*
 
@@ -182,13 +184,19 @@ PRs and issues welcome — but this is a *curated* repo, so every brief clears a
 
 ## The Landed AI-native jobs family
 
-Part of the [**Landed**](https://landed.jobs) AI-native jobs family — cross-linking compounds discovery:
+Part of the [Landed](https://landed.jobs) AI-native job-search family:
 
-- 🗺️ [**awesome-ai-native-jobs**](https://github.com/landedjobs/awesome-ai-native-jobs) — the umbrella: every AI-native role, salary, and skill map.
-- 🏗️ [**ai-engineer-portfolio-projects**](https://github.com/landedjobs/ai-engineer-portfolio-projects) — **the broad 60+ catalog** (this repo's quantity companion).
-- 🧠 [**awesome-ai-engineer-interview**](https://github.com/landedjobs/awesome-ai-engineer-interview) — the interview-prep companion.
-- 🗺️ [**ai-product-engineer-roadmap**](https://github.com/landedjobs/ai-product-engineer-roadmap) — the AI Product Engineer skill map.
-- 🤖 [**ai-engineer-jobs**](https://github.com/landedjobs/ai-engineer-jobs) — live AI Engineer job list.
+- 🧭 [awesome-ai-native-jobs](https://github.com/landedjobs/awesome-ai-native-jobs) — the umbrella that maps the whole AI-native job landscape
+- 🔥 [whos-hiring-in-ai](https://github.com/landedjobs/whos-hiring-in-ai) — real hiring posts from founders on X, sorted by role
+- 💸 [recently-funded-ai-startups-hiring](https://github.com/landedjobs/recently-funded-ai-startups-hiring) — fresh-capital startups staffing up now
+- 🚀 [ai-engineer-jobs](https://github.com/landedjobs/ai-engineer-jobs) — 300 live AI engineer roles, auto-updated
+- 🤝 [forward-deployed-engineer-jobs](https://github.com/landedjobs/forward-deployed-engineer-jobs) — FDE & customer-facing engineering
+- 📈 [gtm-engineer-jobs](https://github.com/landedjobs/gtm-engineer-jobs) — GTM engineering roles
+- 🎓 [ai-fellowships-and-residencies](https://github.com/landedjobs/ai-fellowships-and-residencies) — 75 fellowships, residencies & programs
+- 📘 [ai-interview-guides](https://github.com/landedjobs/ai-interview-guides) — 33 company interview guides
+- ❓ [ai-interview-questions](https://github.com/landedjobs/ai-interview-questions) — 331 real interview questions with answers
+- 🗺️ [ai-product-engineer-roadmap](https://github.com/landedjobs/ai-product-engineer-roadmap) — the AI product engineer roadmap
+- 📦 [ai-engineer-portfolio-projects](https://github.com/landedjobs/ai-engineer-portfolio-projects) — 80+ buildable portfolio projects
 
 ---
 
