@@ -78,7 +78,7 @@ Real-time streaming (WebRTC / WebSockets) · **STT + TTS integration** · **late
 - 💻 [openai/whisper](https://github.com/openai/whisper) — MIT, ~104k★ — the STT baseline; streaming forks exist.
 - 💻 [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — Apache-2.0, ~116k★ — voice-agent examples to compare.
 - 📘 [OpenAI Realtime API docs](https://platform.openai.com/docs/guides/realtime) — the native speech-to-speech path to benchmark against.
-- 📰 [Latency in voice AI](https://www.deepgram.com/learn/voice-ai-latency) — where the milliseconds go, and how to claw them back.
+- 📰 [Latency in voice AI](https://deepgram.com/learn) — where the milliseconds go, and how to claw them back.
 
 > Want more multimodal ideas (transcription+diarization, blog-to-podcast, vision)? See the **60+ catalog** → [`ai-engineer-portfolio-projects`](https://github.com/landedjobs/ai-engineer-portfolio-projects).
 
