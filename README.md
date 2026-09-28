@@ -79,6 +79,7 @@ flowchart LR
 - [The 12 projects (table)](#the-12-projects-that-actually-land-ai-jobs-in-2026)
 - [Project teasers](#project-teasers): one paragraph each
 - [How to present your project](#how-to-present-your-project): the polish checklist
+- [🎓 Go deeper on landed.jobs](#-go-deeper-on-landedjobs): free courses for 10 of the 12 projects, roadmaps, salaries
 - [What's new (2026-07)](#whats-new-2026-07)
 - [FAQ](#faq)
 - [Contributing](#contributing)
@@ -143,6 +144,32 @@ The build is half the work; presentation is the other half, and it's the half mo
 
 > [!WARNING]
 > The fastest way to *lose* a loop with a good project is to not be able to explain your own eval. Build the eval you can defend, a copied RAGAS notebook you can't explain works *against* you.
+
+---
+
+## 🎓 Go deeper on landed.jobs
+
+Ten of the twelve projects (and the bonus) have free courses on [landed.jobs](https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=repo-home) that teach the skills behind the build. The briefs stay here; the courses teach what each project proves. Lesson counts in brackets.
+
+| Project | Courses |
+|---|---|
+| 1 · Production RAG | [Retrieval-Augmented Generation](https://www.landed.jobs/resources/courses/rag-systems?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=course-rag-systems) (7) |
+| 2 · Agentic workflow | [Stateful agent workflows that survive interruption](https://www.landed.jobs/resources/courses/agent-stateful-workflows?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=course-agent-stateful-workflows) (4) · [Agent failure investigation and interview lab](https://www.landed.jobs/resources/courses/agent-failure-lab?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=course-agent-failure-lab) (4) |
+| 3 · Production eval suite | [Agents, Evals & LLMOps](https://www.landed.jobs/resources/courses/agents-evals-llmops?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=course-agents-evals-llmops) (7) · [GenAI Evaluation for Data Scientists](https://www.landed.jobs/resources/courses/ds-genai-eval?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=course-ds-genai-eval) (6) |
+| 4 · MCP second brain | [Reliable tool contracts for agents](https://www.landed.jobs/resources/courses/agent-tool-contracts?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=course-agent-tool-contracts) (4) |
+| 6 · Structured extraction | [Ship Your First LLM Feature](https://www.landed.jobs/resources/courses/llm-features?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=course-llm-features) (6) |
+| 7 · Fine-tuned specialist | [Fine-Tuning & Inference Optimization](https://www.landed.jobs/resources/courses/fine-tuning-inference?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=course-fine-tuning-inference) (6) |
+| 8 · LLM from scratch | [Transformers & LLM Internals](https://www.landed.jobs/resources/courses/transformers-internals?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=course-transformers-internals) (7) |
+| 9 · Hybrid search engine | [Hybrid retrieval & the multi-stage pipeline](https://www.landed.jobs/resources/courses/rag-systems/rag-hybrid?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=lesson-rag-hybrid) (a lesson in the RAG course) |
+| 10 · Guardrails & moderation | [Threat models and authorization boundaries](https://www.landed.jobs/resources/courses/security-trust-boundaries?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=course-security-trust-boundaries) (4) |
+| 12 · LLMOps dashboard | [Reliable multi-tenant model serving](https://www.landed.jobs/resources/courses/ai-infra-serving?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=course-ai-infra-serving) (4) |
+| ＋ · GTM / AI-PM copilot | [Customer-Facing AI Prototypes](https://www.landed.jobs/resources/courses/gtm-customer-prototypes?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=course-gtm-customer-prototypes) (5) · [AI Product Sense & PRDs](https://www.landed.jobs/resources/courses/pm-product-sense?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=course-pm-product-sense) (6) |
+
+Nothing yet for 5 (voice agent) or 11 (multimodal document AI).
+
+**Where these projects lead.** [AI Engineer roadmap](https://www.landed.jobs/resources/roadmaps/ai-engineer?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=roadmap-ai-engineer) · [LLM Engineer roadmap](https://www.landed.jobs/resources/roadmaps/llm-engineer?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=roadmap-llm-engineer) · [AI Product Engineer roadmap](https://www.landed.jobs/resources/roadmaps/ai-product-engineer?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=roadmap-ai-product-engineer) · [GTM Engineer roadmap](https://www.landed.jobs/resources/roadmaps/gtm-engineer?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=roadmap-gtm-engineer) · [AI Engineer salaries](https://www.landed.jobs/salaries/ai-engineer?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=salaries-ai-engineer) · [LLM Engineer salaries](https://www.landed.jobs/salaries/llm-engineer?utm_source=github&utm_medium=referral&utm_campaign=github-projects-to-land-an-ai-job&utm_content=salaries-llm-engineer)
+
+**Then the interview.** [awesome-ai-engineer-interview](https://github.com/landedjobs/awesome-ai-engineer-interview) for the loop, [759 AI interview questions by role](https://github.com/landedjobs/ai-interview-questions), and interview guides for [200 companies](https://github.com/landedjobs/ai-interview-guides).
 
 ---
 
